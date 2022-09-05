@@ -9,3 +9,5 @@ ZCZC W00 100 L02 ZOOM meetings w/ lecturer
 ZCZC W00 60 L04 Creating GitHub Pages
 ZCZC W00 60 L09 General Assignments
 ZCZC W00 120 L10 Assignments Week 0
+ZCZC W00 30 L05 Study before the quiz, and do the Quiz
+ZCZC W00 15 L03 Updating the TXT/mylog.txt
