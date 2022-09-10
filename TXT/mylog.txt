@@ -17,3 +17,4 @@ ZCZC W01 100 L02 ZOOM meetings w/ lecturer
 ZCZC W01 120 L11 Installing virtual box
 ZCZC W01 45 L05 Quiz and studying
 ZCZC W01 15 L03 Updating the TXT/mylog.txt
+ZCZC W01 180 L11 Installing PuTTY on Mac
