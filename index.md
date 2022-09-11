@@ -1,5 +1,4 @@
 ---
-
 ---
 <span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
@@ -9,3 +8,10 @@
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
+This is {{ site.title }} and I am {{ site.name }}.
+<br><br>
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }}
+<hr>
+<br>
