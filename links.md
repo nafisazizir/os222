@@ -13,8 +13,7 @@ permalink: LINKS/
 # LINKS
 
 1. [OS Main Link](https://os.vlsm.org/)<br>
-This is the main link for Operating System course, I'll put it here so I can easily access the website.
-
+This is the main link for Operating System course, I put it here so I can easily access the website.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
