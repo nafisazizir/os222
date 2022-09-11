@@ -21,3 +21,6 @@ ZCZC W01 180 L11 Installing PuTTY on Mac
 ZCZC W01 180 L11 Using git in the virtual box to clone
 ZCZC W01 15 L41 Updating the TXT/mylog.txt
 ZCZC W01 60 L11 reading assignemnts
+ZCZC W01 120 L11 Creating link.md and index.md
+ZCZC W01 10 L40 Creating myupdate.txt 
+ZCZC W01 15 L41 Updating the TXT/mylog.txt
