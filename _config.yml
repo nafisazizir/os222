@@ -1,0 +1,12 @@
+# version:   "0000--11-Sep-2022"
+copyright:   "2022"
+author:      "nafisazizir"
+name:        "Nafis Azizi Riza"
+title:       "OS222: Operating Systems 2022-2"
+githublink:  "https://github.com/nafisazizir/os222/"
+myloglink:   "/TXT/mylog.txt"
+encoding:    UTF-8
+markdown:    kramdown
+input:       GFM
+hard_wrap:   false
+github:      [metadata]
