@@ -1,9 +1,20 @@
-# OS222: Operating System 2022-2
-### Nafis Azizi Riza
-
-## LINKS
-1. [ONE](https://www.google.com)<br>
-Description goes here
-
-2. [TWO](https://www.google.com)<br>
-Description goes here
+---
+---
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<br><br>
+[HOME]({{ site.baseurl }}/) ---
+[LINKS]({{ site.baseurl }}/LINKS/) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL]({{ site.tarballlink }}) ---
+[GITHUB]({{ site.githublink }})
+<br>
+<hr>
+This is {{ site.title }} and I am {{ site.name }}.
+<br><br>
+This is the way!
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }}
+<hr>
+<br>
