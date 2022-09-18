@@ -24,3 +24,13 @@ ZCZC W01 60 L11 reading assignemnts
 ZCZC W01 120 L11 Creating link.md and index.md
 ZCZC W01 10 L40 Creating myupdate.txt 
 ZCZC W01 15 L41 Updating the TXT/mylog.txt
+ZCZC W02 15 L00 Checking SCeLe and announcements
+ZCZC W02 100 L02 ZOOM meetings w/ lecturer
+ZCZC W02 100 L02 ZOOM meetings w/ lecturer
+ZCZC W02 120 L12 Generating GnuPG key
+ZCZC W02 45 L05 Quiz and studying
+ZCZC W02 180 L12 Working on Weekly Assignment 02
+ZCZC W02 60 L12 reading assignemnts
+ZCZC W02 30 L12 Updating links
+ZCZC W02 45 L12 Creating myrank.txt and rank the links
+ZCZC W02 15 L41 Updating the TXT/mylog.txt
