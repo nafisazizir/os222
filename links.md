@@ -26,7 +26,6 @@ Explains what is GPG and how GPG used, especially in Linux
 Helped me understand hwo to find and replace text in file in linux
 7. [Linux Shell Command Cheatsheet](https://docs.cs.cf.ac.uk/notes/linux-shell-commands/#:~:text=The%20shell%20command%20cd%20is,are%20executed%20by%20the%20shell.)<br>
 Helped me understand hwo to find and replace text in file in linux
-<br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
