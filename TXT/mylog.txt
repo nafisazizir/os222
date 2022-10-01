@@ -44,3 +44,14 @@ ZCZC W03 60 L13 reading assignemnts
 ZCZC W03 30 L13 Updating links
 ZCZC W03 45 L13 Updating rank, and myupdate
 ZCZC W03 15 L41 Updating the TXT/mylog.txt
+
+ZCZC W04 15 L00 Checking SCeLe and announcements
+ZCZC W04 100 L02 ZOOM meetings w/ lecturer
+ZCZC W04 100 L02 In person lecture
+ZCZC W04 120 L14 Pop Quiz
+ZCZC W04 45 L05 Quiz and studying
+ZCZC W04 180 L14 Working on Weekly Assignment 03
+ZCZC W04 60 L14 reading assignemnts
+ZCZC W04 30 L14 Updating links
+ZCZC W04 45 L14 Updating rank, and myupdate
+ZCZC W04 15 L41 Updating the TXT/mylog.txt
