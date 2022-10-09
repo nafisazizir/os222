@@ -30,6 +30,8 @@ Helped me understand hwo to find and replace text in file in linux
 Helped me understand how to use printf() function in C
 9. [Pointers in C](https://www.youtube.com/watch?v=f2i0CnUOniA)<br>
 Helped me understand about pointer in C
+10. [Copy, Cut and Paste in Vim / Vi](https://linuxize.com/post/how-to-copy-cut-paste-in-vim/#:~:text=Press%20y%20to%20copy%2C%20or,paste%20it%20after%20the%20cursor.)<br>
+Helped me to copy, cut and paste in Vim / Vi
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
