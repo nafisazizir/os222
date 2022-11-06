@@ -32,6 +32,11 @@ Helped me understand how to use printf() function in C
 Helped me understand about pointer in C
 10. [Copy, Cut and Paste in Vim / Vi](https://linuxize.com/post/how-to-copy-cut-paste-in-vim/#:~:text=Press%20y%20to%20copy%2C%20or,paste%20it%20after%20the%20cursor.)<br>
 Helped me to copy, cut and paste in Vim / Vi
+11. [What is fork()](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Helped me to understand what is fork() function in C
+12. [What fork return?](https://stackoverflow.com/questions/5577564/what-exactly-does-fork-return)<br>
+Helped me knowing what is actually fork returning
+
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
