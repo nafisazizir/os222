@@ -36,6 +36,8 @@ Helped me to copy, cut and paste in Vim / Vi
 Helped me to understand what is fork() function in C
 12. [What fork return?](https://stackoverflow.com/questions/5577564/what-exactly-does-fork-return)<br>
 Helped me knowing what is actually fork returning
+13. [Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Introduction to the process synchronization
 
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
